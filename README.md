@@ -15,3 +15,6 @@ php artisan ui --help
  npm run dev
  
  
+ ==membuat controller php artisan make:controller Tes
+ 
+ 
