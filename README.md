@@ -7,3 +7,5 @@ membuat auth dilaravel
 
 composer require laravel/ui
 php artisan ui --help
+
+ php artisan ui bootstrap --auth
