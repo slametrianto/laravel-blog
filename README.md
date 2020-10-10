@@ -2,7 +2,7 @@
 
 - membuat database : php artisan migrate
 -php artisan migrate:rollback (menghapus table dimigrate)
--php artisan migrate:refresh (mengembalikasn tabel database)
+-php artisan migrate:refresh (mengembalikasn tabel database) / untuk menghilangkan didlm database
 
 membuat auth dilaravel
 
