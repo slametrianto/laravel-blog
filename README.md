@@ -5,8 +5,9 @@
 -php artisan migrate:refresh (mengembalikasn tabel database) / untuk menghilangkan didlm database
 
 
--php artisan make:seeder ()
+-php artisan make:seeder (membuat insert database diterminal)
 -composer dump-autoload /diterminal
+-php artisan db:seed
 
 membuat auth dilaravel
 
