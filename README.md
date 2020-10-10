@@ -5,6 +5,7 @@
 -php artisan migrate:refresh (mengembalikasn tabel database) / untuk menghilangkan didlm database
 
 
+seeder dapat digunakan untuk membuat sample data atau dummy data dengan command yang sederhana. Maka anda tidak perlu repot untuk melakukan penginputan data secara berulang pada saat proses testing
 -php artisan make:seeder (membuat insert database diterminal)
 -composer dump-autoload /diterminal
 -php artisan db:seed
