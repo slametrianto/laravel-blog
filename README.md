@@ -4,6 +4,10 @@
 -php artisan migrate:rollback (menghapus table dimigrate)
 -php artisan migrate:refresh (mengembalikasn tabel database) / untuk menghilangkan didlm database
 
+
+-php artisan make:seeder ()
+-composer dump-autoload /diterminal
+
 membuat auth dilaravel
 
 composer require laravel/ui
