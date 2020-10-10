@@ -1,7 +1,8 @@
 # laravel-blog
 
 - membuat database : php artisan migrate
--php artisan migrate:fresh (menghapus database dimigrate)
+-php artisan migrate:rollback (menghapus table dimigrate)
+-php artisan migrate:refresh (mengembalikasn tabel database)
 
 membuat auth dilaravel
 
