@@ -25,3 +25,11 @@ php artisan ui --help
  ==membuat controller php artisan make:controller Tes
  
  
+ ---laravel jetstream----
+ composer require laravel/jetstream
+ 
+ php artisan jetstream:install livewire
+ php artisan migrate
+ 
+ 
+ 
