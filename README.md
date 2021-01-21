@@ -13,6 +13,8 @@ seeder dapat digunakan untuk membuat sample data atau dummy data dengan command 
 membuat auth dilaravel
 
 composer require laravel/ui
+
+
 php artisan ui --help
 
  php artisan ui bootstrap --auth
